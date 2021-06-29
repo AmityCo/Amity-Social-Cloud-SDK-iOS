@@ -4,6 +4,8 @@
   <img src="https://gblobscdn.gitbook.com/spaces%2F-MX0mOAVWkotGme0iRzu%2Favatar-1617350918855.png?alt=media" alt="Amity" title="AmitySDK">
 </p>
 
+[![SwiftPM Compatible](https://img.shields.io/badge/SwiftPM-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager) 
+[![Cocoapods Compatible](https://img.shields.io/badge/Cocoapods-compatible-4BC51D.svg?style=flat)](https://cocoapods.org) 
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 Amity SDK supercharges your platform with social features — from Feeds and Chat to Stories and Live Streaming. Build online communities, drive social engagement, create positive experiences, and grow your revenue.
