@@ -18,8 +18,9 @@ Amity SDK supercharges your platform with social features — from Feeds and Cha
 
 ## Requirements
 
-| AmitySDK Version | Minimum iOS Target  | 
-| 5.0.0 | iOS 12 |
+| Minimum iOS Target | 
+| ------------------ |
+| iOS 12             |
 
 ## Dependencies
 
