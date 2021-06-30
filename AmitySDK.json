@@ -1,6 +1,6 @@
 {
-  "5.1.0" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.1.0/amitysdk.zip",
-  "5.0.2" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.0.2/amitysdk.zip",
+  "5.1.0" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.1.0/amitysdk.zip",
   "5.0.1" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.0.1/amitysdk.zip",
-  "5.0.0" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.0.0/amitysdk.zip"
+  "5.0.0" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.0.0/amitysdk.zip",
+  "5.0.2" : "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.0.2/amitysdk.zip"
 }
