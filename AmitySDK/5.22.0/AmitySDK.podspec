@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
                 }
     s.author             = { "$(git config user.name)" => "$(git config user.email)" }
     s.source       = { :http => 'https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/5.22.0/amitysdk.zip' }
-    s.vendored_frameworks = 'amitysdk/Frameworks/AmitySDK.xcframework'
+    s.vendored_frameworks = 'Frameworks/AmitySDK.xcframework'
     s.platform = :ios
     s.swift_version = "5"
     s.ios.deployment_target  = '12.0'
