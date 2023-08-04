@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
     s.platform = :ios
     s.swift_version = "5"
     s.ios.deployment_target  = '12.0'
-    s.dependency 'Realm', '~> 10.26.0'
+    s.dependency 'Realm', '10.42.0'
     
 end
